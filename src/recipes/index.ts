@@ -1,5 +1,6 @@
-import gesiers_de_volaille_en_sauce_de_la_abuela from './gesiers_de_volaille_en_sauce_de_la_abuela.json'
+import mollejas_de_pollo_en_salsa_de_la_abuela from './mollejas_de_pollo_en_salsa_de_la_abuela.json'
+import poulet_moutarde from './poulet_moutarde.json'
 
-export default {
-	gesiers_de_volaille_en_sauce_de_la_abuela
-}
+let recipes = [{ mollejas_de_pollo_en_salsa_de_la_abuela }, { poulet_moutarde }]
+
+export default recipes

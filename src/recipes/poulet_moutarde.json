@@ -1,0 +1,61 @@
+{
+  "name": "Poulet moutarde",
+  "url": "poulet_moutarde",
+  "people": "4",
+  "ingredients": [
+    {
+      "name": "Gésiers de volaille",
+      "qt": "500",
+      "type": "gr"
+    },
+    {
+      "name": "Vino dulce",
+      "qt": "150",
+      "type": "ml"
+    },
+    {
+      "name": "Caldo de ave",
+      "qt": "1000",
+      "type": "ml"
+    },
+    {
+      "name": "Tomate concassée",
+      "qt": "100",
+      "type": "gr"
+    },
+    {
+      "name": "Oignon",
+      "qt": "1"
+    },
+    {
+      "name": "Gousse d'ail",
+      "qt": "1"
+    },
+    {
+      "name": "Poivre noir"
+    },
+    {
+      "name": "Persil"
+    },
+    {
+      "name": "Huile d'olive"
+    },
+    {
+      "name": "Sel"
+    }
+  ],
+  "steps": [
+    {
+      "tldr": "Sofríe las mollejas",
+      "description": "Corta las mollejas en varios trozos más pequeños y resérvalas en un plato. Calienta 60 mililitros de aceite de oliva en una cazuela, y cuando esté bien caliente, agrega las mollejas, sal, y un poco de pimienta negra. Deja cocer a fuego vivo 8 minutos."
+    },
+    {
+      "tldr": "Agrega las hortalizas",
+      "description": "Pela y pica finamente el ajo y la cebolla, y agrégalos a la cazuela para cocinarlo todo junto otros 8 minutos removiendo de vez en cuando. Vierte la salsa de tomate, y continúa cocinando 3 minutos más."
+    },
+    {
+      "tldr": "Riega con el vino dulce y el caldo de pollo",
+      "description": "Pica finamente el perejil y añádelo a la cazuela con el vino dulce para cocer 1 minuto y que se evapore el alcohol. Vierte el caldo de pollo, y una pizca de colorante alimentario. Remueve y deja cocer las mollejas con la cazuela tapada y a fuego medio durante un par de horas hasta que las mollejas estén tiernas."
+    }
+  ]
+}

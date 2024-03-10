@@ -5,15 +5,19 @@
 
 	let name = $page.params.name
 
-	let recipe = recipes[name]
+	let recipe = undefined
+
+	recipes.forEach(item => {
+		if (Object.keys(item)[0] === name) {
+			recipe = item[Object.keys(item)[0]]
+		}
+	})
 
 	let people = Number(recipe.people)
 
 	let fraction = 1 / recipe.people
 
 	$: people = Number(people.toFixed(2))
-
-	console.log(recipe)
 
 	function updatePeople(value: 'up' | 'down') {
 		if (value === 'down') {
