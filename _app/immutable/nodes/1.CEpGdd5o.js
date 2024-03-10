@@ -1,0 +1,1 @@
+import{i as t,h as r,c as s,$ as p,o as n,t as u}from"../chunks/disclose-version.O7wSPFQx.js";import{p as h,a as i}from"../chunks/runtime.ZEEjUqv9.js";var m=u("<h1>The page you requested could not be found.</h1>");function l(o,e){i(e,!1),t();var a=n(o,!0,m);r(c=>{p.title="404 Not Found"}),s(o,a),h()}export{l as component};
