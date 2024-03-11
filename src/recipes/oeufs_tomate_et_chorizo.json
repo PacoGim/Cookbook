@@ -1,0 +1,47 @@
+{
+  "name": "Œufs à la tomate et chorizo",
+  "people": "4",
+  "ingredients": [
+    {
+      "name": "Tomate",
+      "qt": "8"
+    },
+    {
+      "name": "Œufs petits",
+      "qt": "8"
+    },
+    {
+      "name": "Chorizo",
+      "qt": "250",
+      "type": "gr"
+    },
+    {
+      "name": "Gousse d'ail",
+      "qt": "3"
+    },
+    {
+      "name": "Sel"
+    },
+    {
+      "name": "Poivre"
+    }
+  ],
+  "steps": [
+    {
+      "tldr": "Revenir le chorizo en morceaux",
+      "description": "Couper le chorizo en morceaux ou rondelles puis le rajouter dans une poêle."
+    },
+    {
+      "tldr": "Revenir l'ail",
+      "description": "Emincer l'ail et le faire revenir dans le gras du chorizo."
+    },
+    {
+      "tldr": "Peler, couper et ajouter les tomates",
+      "description": "Peler les tomates puis les couper en morceaux. Faire fondre les tomates à feux doux pendant 10 mn. Remuer de temps en temps."
+    },
+    {
+      "tldr": "Ajouter les œufs",
+      "description": "Disposer les œufs dans la poêle comme des œufs au plat. Une fois presque cuits, poivrer et saler."
+    }
+  ]
+}
